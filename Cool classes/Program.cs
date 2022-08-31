@@ -40,6 +40,8 @@ namespace Cool_classes
 
             var age2 = 2;
 
+            Console.WriteLine(age2);
+
 
             Console.ReadLine();
 
