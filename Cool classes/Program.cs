@@ -38,6 +38,10 @@ namespace Cool_classes
 
             person.GetInfo();
 
+            var age2 = 2;
+
+            Console.WriteLine(age2);
+
 
             Console.ReadLine();
 
